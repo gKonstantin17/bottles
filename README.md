@@ -18,5 +18,5 @@ java -jar build/libs/bottles-1.0-SNAPSHOT.jar
 
 Предложит решение исходя из условия:
 
-![1](../img/task1.png)
-![1](../img/task1.2.png)
+![1](img/task1.png)
+![1](img/task1.2.png)
